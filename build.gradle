@@ -3,7 +3,6 @@ plugins {
 	}
 node {
 	download = true
-	version = "4.7.2"
 }
 task build
 
